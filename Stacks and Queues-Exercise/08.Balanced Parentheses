@@ -1,0 +1,71 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace _08._Balanced_Parentheses
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            bool flag = false;
+            Queue<string> parenthese = new Queue<string>();
+            Queue<string> secondParenthese = new Queue<string>();
+            string input = Console.ReadLine();
+
+            for (int i = 0; i < input.Length / 2; i++)
+            {
+                string current = input[i].ToString();
+                parenthese.Enqueue(current);
+
+            }
+
+            for (int i = input.Length - 1; i > input.Length / 2 - 1; i--)
+            {
+
+                string current = input[i].ToString();
+                secondParenthese.Enqueue(current);
+
+            }
+            if (parenthese.Count == secondParenthese.Count)
+            {
+                for (int i = 0; i < input.Length / 2; i++)
+                {
+                    string currentSymbol = parenthese.Dequeue();
+                    string secondSymbol = secondParenthese.Dequeue();
+
+                    if (currentSymbol == "(" && secondSymbol == ")")
+                    {
+                        flag = true;
+                    }
+                    else if (currentSymbol == "{" && secondSymbol == "}")
+                    {
+                        flag = true;
+                    }
+                    else if (currentSymbol == "[" && secondSymbol == "]")
+                    {
+                        flag = true;
+                    }
+                    else if (currentSymbol == " " && secondSymbol == " ")
+                    {
+                        flag = true;
+                    }
+                    else
+                    {
+                        flag = false;
+                        break;
+                    }
+
+                }
+            }
+            if (flag)
+            {
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
+            }
+        }
+    }
+}
