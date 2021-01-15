@@ -1,1 +1,74 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
+namespace _09.Simple_Text_Editor
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int n = int.Parse(Console.ReadLine());
+            Stack<string> backUP = new Stack<string>();
+            Queue<string> queue = new Queue<string>();
+
+            for (int i = 0; i < n; i++)
+            {
+                string[] input = Console.ReadLine().Split(" ");
+                string command = input[0];
+
+                if (command == "1")
+                {
+                    string currLetters = input[1];
+                    backUP.Push(currLetters);
+                    foreach (var item in currLetters)
+                    {
+                        queue.Enqueue(item.ToString());
+
+                    }
+                }
+                else if (command == "2")
+                {
+                    int count = int.Parse(input[1]);
+                    string empty = string.Empty;
+                    for (int j = 0; j < count; j++)
+                    {
+
+                        queue.Dequeue();
+
+                    }
+                    backUP.Push(empty);
+                }
+                else if (command == "3")
+                {
+                    int index = int.Parse(input[1]);
+                    string print = string.Empty;
+
+                    for (int a = 0; a < index; a++)
+                    {
+                        string move = queue.Dequeue();
+                        queue.Enqueue(move);
+                        print = move;
+                    }
+                    Console.WriteLine(print);
+                }
+                else if (command == "4")
+                {
+                    backUP.Pop();
+                    string back = backUP.Peek();
+                    while (queue.Any())
+                    {
+                        queue.Dequeue();
+                    }
+                    foreach (var item in back)
+                    {
+                        queue.Enqueue(item.ToString());
+                    }
+
+                }
+
+            }
+        }
+    }
+}
