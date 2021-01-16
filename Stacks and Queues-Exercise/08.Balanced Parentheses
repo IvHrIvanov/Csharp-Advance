@@ -9,54 +9,49 @@ namespace _08._Balanced_Parentheses
         static void Main(string[] args)
         {
             bool flag = false;
-            Queue<string> parenthese = new Queue<string>();
-            Queue<string> secondParenthese = new Queue<string>();
+            Stack<string> stack = new Stack<string>();
             string input = Console.ReadLine();
 
-            for (int i = 0; i < input.Length / 2; i++)
-            {
-                string current = input[i].ToString();
-                parenthese.Enqueue(current);
-
-            }
-
-            for (int i = input.Length - 1; i > input.Length / 2 - 1; i--)
+            for (int i = 0; i < input.Length; i++)
             {
 
-                string current = input[i].ToString();
-                secondParenthese.Enqueue(current);
+                string curr = input[i].ToString();
 
-            }
-            if (parenthese.Count == secondParenthese.Count)
-            {
-                for (int i = 0; i < input.Length / 2; i++)
+                if (curr == "(" || curr == "[" || curr == "{")
                 {
-                    string currentSymbol = parenthese.Dequeue();
-                    string secondSymbol = secondParenthese.Dequeue();
-
-                    if (currentSymbol == "(" && secondSymbol == ")")
-                    {
-                        flag = true;
-                    }
-                    else if (currentSymbol == "{" && secondSymbol == "}")
-                    {
-                        flag = true;
-                    }
-                    else if (currentSymbol == "[" && secondSymbol == "]")
-                    {
-                        flag = true;
-                    }
-                    else if (currentSymbol == " " && secondSymbol == " ")
-                    {
-                        flag = true;
-                    }
-                    else
+                    stack.Push(curr);
+                }
+                else if (curr == ")" || curr == "]" || curr == "}")
+                {
+                    if (!stack.Any() && input.Length > 0)
                     {
                         flag = false;
                         break;
                     }
 
+                    string parentheses = stack.Pop();
+
+                    if (parentheses == "(" && curr == ")")
+                    {
+                        flag = true;
+                    }
+
+                    else if (parentheses == "{" && curr == "}")
+                    {
+                        flag = true;
+                    }
+                    else if (parentheses == "[" && curr == "]")
+                    {
+                        flag = true;
+                    }
+
+                    else
+                    {
+                        flag = false;
+                        break;
+                    }
                 }
+
             }
             if (flag)
             {
