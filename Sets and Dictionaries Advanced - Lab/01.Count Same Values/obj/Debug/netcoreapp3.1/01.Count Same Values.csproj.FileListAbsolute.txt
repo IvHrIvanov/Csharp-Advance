@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.exe
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.deps.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\bin\Debug\netcoreapp3.1\01.Count Same Values.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Lab\01.Count Same Values\obj\Debug\netcoreapp3.1\01.Count Same Values.genruntimeconfig.cache
