@@ -38,7 +38,7 @@ namespace _03.Product_Shop
                 Console.WriteLine($"{item.Key}->");
                 foreach (var productAndPrice in item.Value)
                 {
-                    Console.WriteLine($"Product: {productAndPrice.Key}, Price: {productAndPrice.Value:f}");
+                    Console.WriteLine($"Product: {productAndPrice.Key}, Price: {productAndPrice.Value}");
                 }
 
             }
