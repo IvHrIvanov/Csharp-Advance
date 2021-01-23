@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.exe
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.deps.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\bin\Debug\netcoreapp3.1\02.Set of Elements.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\02.Set of Elements\obj\Debug\netcoreapp3.1\02.Set of Elements.genruntimeconfig.cache
