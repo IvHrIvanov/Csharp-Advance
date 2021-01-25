@@ -1,0 +1,12 @@
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.exe
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.deps.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\bin\Debug\netcoreapp3.1\07.Vloger.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.dll
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.pdb
+C:\Users\Nitro 5\source\repos\Sets and Dictionaries Advanced - Exercise\07.Vloger\obj\Debug\netcoreapp3.1\07.Vloger.genruntimeconfig.cache
