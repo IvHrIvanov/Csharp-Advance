@@ -1,0 +1,12 @@
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.exe
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.deps.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.dll
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp3.1\03. Primary Diagonal.pdb
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.dll
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.pdb
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp3.1\03. Primary Diagonal.genruntimeconfig.cache

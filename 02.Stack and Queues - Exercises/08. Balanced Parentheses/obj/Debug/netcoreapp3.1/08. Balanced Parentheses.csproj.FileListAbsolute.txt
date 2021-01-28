@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.exe
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.deps.json
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.dll
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.pdb
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.dll
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.pdb
+C:\Users\Nitro 5\source\repos\StackQueue-exercises\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.genruntimeconfig.cache

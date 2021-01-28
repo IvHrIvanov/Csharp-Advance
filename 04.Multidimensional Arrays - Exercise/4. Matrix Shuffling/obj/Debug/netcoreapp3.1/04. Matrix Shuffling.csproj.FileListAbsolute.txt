@@ -1,0 +1,12 @@
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.exe
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.deps.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+C:\Users\Nitro 5\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.genruntimeconfig.cache

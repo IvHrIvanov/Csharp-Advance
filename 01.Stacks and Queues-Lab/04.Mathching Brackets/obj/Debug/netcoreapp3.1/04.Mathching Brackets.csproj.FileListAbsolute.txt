@@ -1,0 +1,12 @@
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.exe
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.deps.json
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.dll
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\bin\Debug\netcoreapp3.1\04.Mathching Brackets.pdb
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.dll
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.pdb
+C:\Users\Nitro 5\source\repos\Stacks and Queues-Lab\04.Mathching Brackets\obj\Debug\netcoreapp3.1\04.Mathching Brackets.genruntimeconfig.cache
