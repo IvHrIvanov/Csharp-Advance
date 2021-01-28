@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.exe
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.deps.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\bin\Debug\netcoreapp3.1\01.Sort even numbers.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\01.Sort even numbers\obj\Debug\netcoreapp3.1\01.Sort even numbers.genruntimeconfig.cache

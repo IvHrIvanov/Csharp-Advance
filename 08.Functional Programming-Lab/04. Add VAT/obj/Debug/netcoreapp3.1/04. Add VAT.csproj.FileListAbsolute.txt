@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.exe
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.deps.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.exe
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.deps.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.runtimeconfig.dev.json
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\bin\Debug\netcoreapp3.1\05.Filter by Age.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.csprojAssemblyReference.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.dll
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.pdb
+C:\Users\Nitro 5\source\repos\08.Functional Programming-Lab\05.Filter by Age\obj\Debug\netcoreapp3.1\05.Filter by Age.genruntimeconfig.cache
