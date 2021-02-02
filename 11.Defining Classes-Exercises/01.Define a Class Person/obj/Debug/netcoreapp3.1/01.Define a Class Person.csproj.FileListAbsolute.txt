@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.exe
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.deps.json
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.runtimeconfig.json
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.dll
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\bin\Debug\netcoreapp3.1\01.Define a Class Person.pdb
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.dll
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.pdb
+C:\Users\Ivan\source\repos\11.Defining Classes\01.Define a Class Person\obj\Debug\netcoreapp3.1\01.Define a Class Person.genruntimeconfig.cache
