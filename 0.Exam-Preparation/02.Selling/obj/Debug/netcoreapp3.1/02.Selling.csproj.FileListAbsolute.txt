@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\Ivan\source\repos\12.Linked List\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache
