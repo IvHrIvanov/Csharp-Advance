@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.exe
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.deps.json
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.runtimeconfig.json
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.dll
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\bin\Debug\netcoreapp3.1\11.Threeuple.pdb
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.dll
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.pdb
+C:\Users\Ivan\source\repos\13.Generics - Exercise\10.Threeuple\obj\Debug\netcoreapp3.1\11.Threeuple.genruntimeconfig.cache
