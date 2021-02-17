@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\02,Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache
