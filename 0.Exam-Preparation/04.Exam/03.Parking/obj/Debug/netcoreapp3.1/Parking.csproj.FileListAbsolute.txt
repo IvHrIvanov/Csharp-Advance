@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

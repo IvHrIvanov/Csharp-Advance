@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.exe
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.deps.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.runtimeconfig.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\bin\Debug\netcoreapp3.1\04.ClubParty.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.dll
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.pdb
+C:\Users\Ivan\source\repos\CAdvanced Exam - 28 June 2020\04.ClubParty\obj\Debug\netcoreapp3.1\04.ClubParty.genruntimeconfig.cache
