@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.exe
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.deps.json
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.runtimeconfig.json
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.dll
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\bin\Debug\netcoreapp3.1\01.ProblemOne.pdb
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.dll
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.pdb
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemTwo\obj\Debug\netcoreapp3.1\01.ProblemOne.csprojAssemblyReference.cache

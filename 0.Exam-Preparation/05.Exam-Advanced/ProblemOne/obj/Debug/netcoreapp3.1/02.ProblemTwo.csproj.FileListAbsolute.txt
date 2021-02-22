@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\bin\Debug\netcoreapp3.1\02.ProblemTwo.exe
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.dll
+C:\Users\Ivan\source\repos\ExamAdvanced20.02.2021\ProblemOne\obj\Debug\netcoreapp3.1\02.ProblemTwo.pdb
